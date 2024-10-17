@@ -38,11 +38,11 @@ const Skills = () => {
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20 mx-auto" src={Javascript} alt="html icon" />
             <p className="my-4">JavaScript</p>
-          </div>
+          </div>  {/*
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20 mx-auto" src={REACT} alt="html icon" />
             <p className="my-4">React</p>
-          </div>
+          </div> */} 
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20 mx-auto" src={Github} alt="html icon" />
             <p className="my-4">Github</p>
@@ -54,11 +54,11 @@ const Skills = () => {
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20 mx-auto" src={java} alt="html icon" />
             <p className="my-4">Java</p>
-          </div>
+          </div> {/*
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20 h-20 mx-auto" src={flutter} alt="html icon" />
             <p className="my-4">Flutter</p>
-          </div>
+          </div>*/} 
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20  mx-auto" src={php} alt="html icon" />
             <p className="my-4">PHP</p>
