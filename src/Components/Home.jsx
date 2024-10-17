@@ -14,10 +14,10 @@ const Home = () => {
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className=" text-gray-300 text-3xl">Hey, my name is</p>
         <h1 className="text-4xl sm:text-7xl font-bold text-[#cccdf6]">
-          Mike Mambwe
+          Steward Mwanza
         </h1>
         <h2 className="text-4xl  sm:text-7xl font-bold text-[#8892b0]">
-          I am a Software Developer.
+          I am a Software Engfi.
         </h2>
         <p className="text-[#b7bdd1] text-2xl py-4 max-w-[700px]">
           I'm a Software developer specializing in building (and occasionally
