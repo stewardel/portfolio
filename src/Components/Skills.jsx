@@ -81,7 +81,7 @@ const Skills = () => {
             <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20  mx-auto" src={mysql} alt="html icon" />
             <p className="my-4">MySQL</p>
-          </div>
+             </div>
         </div>
       </div>
     </div>
