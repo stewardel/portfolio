@@ -16,7 +16,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#000] text-gray-300">
       <div>
-        <h1 className="text-2xl">Mambwe</h1>
+        <h1 className="text-2xl">Eng Mwanza</h1>
       </div>
 
       {/**Menu */}
@@ -93,7 +93,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] px-2 flex justify-between items-center ml-[-130px] bg-blue-600 hover:ml-[-20px] duration-300">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/mike-mambwe-06518a1b2/"
+              href="https://www.linkedin.com/in/steward-mwanza-83473727b/"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -101,7 +101,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] px-2 flex justify-between items-center ml-[-130px] bg-blue-800 hover:ml-[-20px] duration-300">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.facebook.com/profile.php?id=100082750740856"
+              href="https://www.facebook.com/stewardel.mwanza/"
             >
               Facebook <FaFacebook size={30} />
             </a>
@@ -109,7 +109,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] px-2 flex justify-between items-center ml-[-130px] bg-[#333] hover:ml-[-20px] duration-300">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/aeprodigy"
+              href="https://github.com/stewardel"
             >
               Github <FaGithub size={30} />
             </a>
