@@ -8,7 +8,7 @@ import Android from "../Assets/android.png";
 import java from "../Assets/java.png";
 import php from "../Assets/php.png";
 import flutter from "../Assets/flutter.png";
-import laravel from "../Assets/laravel.png";
+import laravel from "../Assets/csharp.png";
 
 // imports on top of this line
 const Skills = () => {
@@ -64,8 +64,8 @@ const Skills = () => {
             <p className="my-4">PHP</p>
           </div>
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
-            <img className="w-20  mx-auto" src={laravel} alt="html icon" />
-            <p className="my-4">Laravel</p>
+            <img className="w-20  mx-auto" src={csharp} alt="html icon" />
+            <p className="my-4">C Sharp</p>
           </div>
         </div>
       </div>
