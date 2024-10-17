@@ -9,6 +9,9 @@ import java from "../Assets/java.png";
 import php from "../Assets/php.png";
 import flutter from "../Assets/flutter.png";
 import csharp from "../Assets/csharp.png";
+import sql from "../Assets/sql.png";
+import sqlite from "../Assets/sqlite.png";
+import mysql from "../Assets/mysql.png";
 
 // imports on top of this line
 const Skills = () => {
@@ -66,6 +69,19 @@ const Skills = () => {
           <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
             <img className="w-20  mx-auto" src={csharp} alt="html icon" />
             <p className="my-4">C Sharp</p>
+          </div>
+          <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
+            <img className="w-20  mx-auto" src={sql} alt="html icon" />
+            <p className="my-4">SQL</p>
+          </div>
+          <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
+            <img className="w-20  mx-auto" src={sqlite} alt="html icon" />
+            <p className="my-4">SQLite</p>
+            <div className="shadow-md shadow-[#9e9e9e3a] hover:scale-110 duration-500 cursor-pointer">
+            <img className="w-20  mx-auto" src={mysql} alt="html icon" />
+            <p className="my-4">MySQL</p>
+            
+          </div>
           </div>
         </div>
       </div>
