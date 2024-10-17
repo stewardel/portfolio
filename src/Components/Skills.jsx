@@ -8,7 +8,7 @@ import Android from "../Assets/android.png";
 import java from "../Assets/java.png";
 import php from "../Assets/php.png";
 import flutter from "../Assets/flutter.png";
-import laravel from "../Assets/csharp.png";
+import csharp from "../Assets/csharp.png";
 
 // imports on top of this line
 const Skills = () => {
