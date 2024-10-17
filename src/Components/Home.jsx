@@ -22,7 +22,7 @@ const Home = () => {
         <p className="text-[#b7bdd1] text-2xl py-4 max-w-[700px]">
           I'm a Software developer specializing in building (and occasionally
           designing) exceptional digital experiences. Currently, I am focused on
-          building responsive full-stack web applications and Mobile
+          building responsive web applications and Mobile
           Applications
         </p>
         <div>
