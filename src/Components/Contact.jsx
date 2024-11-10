@@ -42,9 +42,10 @@ const Contact = () => {
           name="meassage"
           rows="10"
           placeholder="Message"
-        ></textarea><button className="text-black border-2 mx-auto flex items-center">
-         Let's Connect
-      </button> 
+        ></textarea><button className="text-white border-2 hover:bg-[#8892b0] hover:border-[#8892b0] mx-auto flex items-center">
+          Let's Connect
+        </button>
+        
       </form>
     </div>
   );
