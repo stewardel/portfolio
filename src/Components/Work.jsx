@@ -1,5 +1,8 @@
 import React from "react";
-import img1 from '../Assets/img1.png';
+import sc1 from '../Assets/sc1.png';
+import sc2 from '../Assets/sc2.png';
+import sc3 from '../Assets/sc3.png';
+import sc4 from '../Assets/sc4.png';
 
 const Work = () => {
   return (
@@ -23,15 +26,15 @@ const Work = () => {
             {/*Hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider ">
-                Cat Adopt app
+                LinkTech
               </span>
               <div className="pt-8">
-                <a href="https://catapp-silk.vercel.app">
+                <a href="https://linkper.site">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/aeprodigy/catapp">
+                <a href="https://github.com/stewardel/portfolio">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
