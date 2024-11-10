@@ -24,7 +24,7 @@ const Work = () => {
             }}
           >
             {/*Hover effect */}
-            <div className="opacity-0 group-hover:opacity-100">
+            <div className="opacity-0 group-hover:opacity-10">
               <span className="text-2xl font-bold text-white tracking-wider ">
                 LinkTech
               </span>
