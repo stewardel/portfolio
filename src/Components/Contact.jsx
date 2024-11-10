@@ -17,9 +17,9 @@ const Contact = () => {
         <div className="pb-8">
           <p className="text-4xl font-bold block border-b-4 border-gray-400 text-gray-300 "
           style={{
-            marginTop: "20px", 
+            marginTop: "80px", 
           }}
-          
+
           >
             Contact
           </p>
