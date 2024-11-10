@@ -18,7 +18,7 @@ const Work = () => {
           <div
             className="shadow-lg shadow-slate-400 group container round-md flex justify-center items-center mx-auto content-div"
             style={{
-              backgroundImage: `url(${img1})`,
+              backgroundImage: `url(${sc1})`,
               backgroundSize: "cover",
               backgroundPosition: "center",
             }}
