@@ -43,19 +43,26 @@ const Work = () => {
             </div>
           </div>
 
-          <div className="shadow-lg shadow-slate-400 group container round-md flex justify-center items-center mx-auto content-div">
+          <div
+            className="shadow-lg shadow-slate-400 group container round-md flex justify-center items-center mx-auto content-div"
+            style={{
+              backgroundImage: `url(${sc2})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+            }}
+          >
             {/*Hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider ">
-                React JS Application
+                Store 
               </span>
               <div className="pt-8">
-                <a href="https://blumhouse.vercel.app">
+                <a href="https://store.linkper.site">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
                 </a>
-                <a href="https://github.com/aeprodigy/movie_app">
+                <a href="https://github.com/stewardel/portfolio">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Code
                   </button>
