@@ -24,7 +24,7 @@ const Work = () => {
             }}
           >
             {/*Hover effect */}
-            <div className="opacity-0 group-hover:opacity-10">
+            <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider ">
                 LinkTech
               </span>
@@ -87,6 +87,34 @@ const Work = () => {
               </span>
               <div className="pt-8">
                 <a href="https://linksapp.linkper.site">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/stewardel/portfolio">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div
+            className="shadow-lg shadow-slate-400 group container round-md flex justify-center items-center mx-auto content-div"
+            style={{
+              backgroundImage: `url(${sc4})`,
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+            }}
+          >
+            {/*Hover effect */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider ">
+                Green App
+              </span>
+              <div className="pt-8">
+                <a href="https://greenapp.linkper.site">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg ">
                     Demo
                   </button>
